@@ -1,6 +1,6 @@
 # 🌟 zenith
 
-Zenith is a next-generation build infrastructure system designed to go beyond the capabilities of [summit](https://github.com/serpent-os/summit).
+Zenith is a next-generation build infrastructure system designed to go beyond the capabilities of [summit](https://github.com/aerynos/infra).
 
 ## 🎯 Goals
 
